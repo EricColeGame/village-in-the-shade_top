@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Village in the Shade Wiki",
+    "shortName": "Village in the Shade",
+    "tagline": "Farming, Secrets & Survival in Kagatsu",
+    "description": "Explore Village in the Shade with beginner guides, farming tips, character details, secrets, and walkthroughs. Discover Kagatsu's mysteries and learn how to survive.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Japanese Countryside Farming Horror",
+      "title": "Village in the Shade Wiki",
+      "description": "Explore Kagatsu, a hand-painted Japanese mountain village where farming, fishing, festivals, and friendships hide unsettling secrets. Find beginner guides, crop tips, character information, exploration walkthroughs, and updates to uncover the truth behind the village's mysterious rules.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Jul 29, 2026 PC Release",
+        "52 Steam Achievements",
+        "91% Positive Steam Reviews",
+        "Single-Player"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "View on Steam",
+      "tertiaryCta": "PlayStation Store",
+      "videoLabel": "Official Launch Trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Uncover the Secrets of Kagatsu?",
+      "description": "From your first crops and festivals to the village's hidden rules and nighttime mysteries, our independent wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "View on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Village in the Shade Wiki",
+    "about": "Village in the Shade Wiki is an independent fan-built guide hub covering farming, fishing, festivals, characters, village rules, and the hidden mysteries of Kagatsu for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Village in the Shade Wiki. Not affiliated with Nippon Ichi Software or NIS America.",
+    "description": "A Japanese countryside farming and psychological horror game from Nippon Ichi Software and NIS America.",
+    "playGame": "View on Steam",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "Nintendo Switch 2",
+    "vvBuilder": "PlayStation Store",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
