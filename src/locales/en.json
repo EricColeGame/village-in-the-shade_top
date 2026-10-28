@@ -6,7 +6,17 @@
     "description": "Explore Village in the Shade with beginner guides, farming tips, character details, secrets, and walkthroughs. Discover Kagatsu's mysteries and learn how to survive.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "combat": "Combat",
+    "platforms": "Platforms",
+    "language": "Language",
+    "reviews": "Reviews",
+    "toggleTheme": "Toggle theme",
+    "menu": "Menu"
+  },
   "home": {
     "meta": {
       "title": "Village in the Shade Wiki — Beginner Guide, Farming, Rules & Walkthrough",
@@ -414,7 +424,34 @@
       "secondary": "View on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Village in the Shade Guides",
+    "overviewDescription": "Beginner guides, walkthroughs, achievements, endings, and practical tips for every stage of Village in the Shade."
+  },
+  "mechanics": {
+    "overviewTitle": "Village in the Shade Mechanics",
+    "overviewDescription": "Learn farming, combat, nighttime rules, game modes, and save systems in Village in the Shade."
+  },
+  "characters": {
+    "overviewTitle": "Village in the Shade Characters",
+    "overviewDescription": "Meet Kagatsu's villagers, romance options, heart events, and the dog with detailed Village in the Shade character guides."
+  },
+  "combat": {
+    "overviewTitle": "Village in the Shade Combat Guides",
+    "overviewDescription": "Understand yokai, ghosts, monsters, jumpscares, and combat basics in Village in the Shade."
+  },
+  "platforms": {
+    "overviewTitle": "Village in the Shade Platforms",
+    "overviewDescription": "Compare Village in the Shade on PC, PS5, Switch, Switch 2, and Steam Deck, including requirements and performance notes."
+  },
+  "language": {
+    "overviewTitle": "Village in the Shade Language Options",
+    "overviewDescription": "Find Village in the Shade English support, language settings, patches, and release details."
+  },
+  "reviews": {
+    "overviewTitle": "Village in the Shade Reviews",
+    "overviewDescription": "Read Village in the Shade reviews, gameplay impressions, Reddit discussion, and release coverage."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -445,9 +482,9 @@
     "officialYoutube": "Nintendo Switch 2",
     "vvBuilder": "PlayStation Store",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+  "raceGuides": "Character Guides",
+  "bossGuides": "Combat Guides",
+  "buildGuide": "Mechanics Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

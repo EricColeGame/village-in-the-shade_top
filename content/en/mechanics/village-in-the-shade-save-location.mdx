@@ -1,0 +1,120 @@
+export const metadata = {
+  title: "Village in the Shade Save Location: Find, Back Up, and Restore Your Files",
+  description: "Can't find your Village in the Shade save location? Learn where the game keeps saves on Windows, Mac, and Linux, plus backup and cloud sync tips.",
+  category: "mechanics",
+  date: "2026-10-28",
+}
+
+## Why the Village in the Shade Save Location Matters
+
+Few things sting more than losing hours of progress because you couldn't find a single file. Whether you're moving to a new PC, testing a backup, or troubleshooting a corrupted save, knowing the **Village in the Shade save location** puts you back in control of your playthrough. This guide walks you through practical ways to track down that folder, confirm you've found the right one, and protect it — so the **Village in the Shade save location** stops being a mystery and becomes a two-minute task.
+
+Small indie releases rarely ship with a printed manual listing file paths, and store pages almost never mention them. That means the burden falls on you. The good news: once you understand how games of this type store data, locating the save folder becomes a repeatable process rather than a guessing game.
+
+| Reason you need the path | What it lets you do |
+|---|---|
+| Hardware upgrade | Copy progress to a new PC without starting over |
+| Corrupted save | Swap in a clean backup from an earlier point |
+| Multiple endings | Preserve separate files before major story choices |
+| Troubleshooting | Rule out save data when the game won't load |
+| Cloud conflicts | Decide which copy is newer and keep it |
+
+## Where the Village in the Shade Save Location Usually Lives on Windows
+
+Most small-to-mid-sized PC games are built on one of a handful of engines, and each engine has a house style for saving. Rather than hunting blindly, identify the engine first — the folder name in the file path often gives it away — then check the matching location.
+
+The table below lists the conventional spots. Treat these as starting points, not guarantees: developers can override any default, and a game's folder name may differ slightly from its store title.
+
+| Engine / framework | Typical Windows path |
+|---|---|
+| Unity | `%USERPROFILE%\AppData\LocalLow\<Studio>\<Game>` |
+| Unreal Engine | `%LOCALAPPDATA%\<Game>\Saved\SaveGames` |
+| Godot | `%APPDATA%\<Game>` or `%APPDATA%\Godot\app_userdata\<Game>` |
+| GameMaker | `%LOCALAPPDATA%\<Game>` |
+| RPG Maker MV/MZ | `%APPDATA%\<Game>` or a `save` folder beside the executable |
+| Steam Cloud wrapper | `Steam\userdata\<AccountID>\<AppID>\remote` |
+
+Two quick shortcuts save time here. Press **Win + R** and type `%appdata%` or `%localappdata%` to jump straight into the roaming or local app data folders. From there, sort by **Date modified** — the folder that changed the moment you last saved is almost certainly the one you want.
+
+### Check the install folder too
+
+Some titles, particularly those distributed outside Steam, write saves next to the executable or in a `Saves`, `SaveData`, or `Profile` subfolder inside the game directory. If nothing in AppData looks right, open the install directory and scan for those names before moving on. This is also where you'll find configuration files that sometimes point directly at the save path.
+
+## Fast Methods to Pin Down the Exact Folder
+
+When the educated guesses don't land, switch to search. These approaches work regardless of engine, and they're the same ones used by players who troubleshoot save issues regularly.
+
+| Method | How to do it | Best for |
+|---|---|---|
+| Extension search | Search the drive for `*.sav`, `*.dat`, or `*.json` | Narrowing thousands of files to a handful |
+| Modified-date sort | Sort search results by date, newest first | Confirming which file the game just wrote |
+| Steam file browser | Right-click the game → Manage → Browse local files | Finding portable saves stored with the game |
+| File-watcher tools | Monitor write activity while you save in-game | Pinpointing obscure or renamed paths |
+| In-game menu check | Look for a "save folder" or "open directory" option | Games that expose the path themselves |
+
+The file-watcher approach deserves a mention because it's decisive. Run a lightweight monitoring utility, save your game, and watch which directory gets a write event. Whatever appears is your answer, with no ambiguity — even if the developer renamed the folder to something unrecognizable.
+
+If you'd rather not install anything, do the low-tech version: note the exact clock time, save, then search for files modified in the last few minutes. It's slower but just as conclusive.
+
+## The Village in the Shade Save Location on macOS and Linux
+
+Mac and Linux players face the same problem with different folder conventions. On macOS, the Library folder is hidden by default, which trips up a lot of people. Hold **Option** while opening the Finder's **Go** menu, or use **Go to Folder** and paste the path directly.
+
+| Platform | Typical save path |
+|---|---|
+| macOS (native) | `~/Library/Application Support/<Game>` |
+| macOS (Unity) | `~/Library/Application Support/<Studio>/<Game>` |
+| Linux (native) | `~/.local/share/<Game>` |
+| Linux (Unity) | `~/.config/unity3d/<Studio>/<Game>` |
+| Linux via Proton | `steamapps/compatdata/<AppID>/pfx/drive_c/users/steamuser/` |
+
+The Proton path is worth bookmarking. When a Windows game runs through compatibility layers on Linux or Steam Deck, its saves live inside a virtual Windows drive rather than your home directory. From that `steamuser` folder, follow the same AppData structure you'd use on a real Windows machine. Backing up a Deck playthrough means copying from that prefix, not from the game's install folder.
+
+## Build a Backup Habit Around the Save Folder
+
+Finding the Village in the Shade save location once is useful. Knowing it permanently, and having a routine attached to it, is what actually protects your progress. Save files for narrative-driven games are usually small — often a few megabytes at most — so there's no reason to be stingy with copies.
+
+| Cadence | Action | Effort |
+|---|---|---|
+| Before each session | Copy the save folder to a dated subfolder | Under a minute |
+| Weekly | Sync the backup folder to cloud storage | Automatic once configured |
+| Before big choices | Duplicate the file and rename it for that branch | Seconds |
+| After finishing | Archive the final save with your notes | One-time |
+
+A simple naming convention keeps things sane: `save-backup-YYYY-MM-DD-HHMM`. Sort alphabetically and your backups arrange themselves chronologically. If you keep multiple playthroughs, add a short label — `chapter4-beforechoice` tells you far more than `backup2`.
+
+### Restoring without breaking things
+
+Restoring is just the reverse, with one rule: close the game first. Games frequently rewrite save data on exit, so copying files while the process is running can overwrite your restoration or produce a half-written file. Quit fully, confirm the process has ended, then paste your backup into the folder and launch again. If the game syncs to a cloud service, check which copy wins before you relaunch — a stale cloud version can silently replace the file you just restored.
+
+## Troubleshooting: When the Save Location Isn't Where You Expect
+
+Community reports on indie titles often mention saves that seem to vanish. In nearly every case the data exists and the path is simply somewhere unexpected. Work through the table below before assuming anything is lost.
+
+| Symptom | Likely cause | Fix |
+|---|---|---|
+| No save folder anywhere | Saves stored in the install directory | Check the game's own folder |
+| Folder exists but is empty | Cloud-only or sandboxed storage | Disable cloud sync temporarily and re-save |
+| File present, game ignores it | Version or profile mismatch | Verify the file name matches exactly |
+| Saves reset after updates | Path changed between builds | Search for the new folder and migrate |
+| Two conflicting saves | Cloud and local diverged | Compare timestamps, keep the newer one |
+
+For a second opinion, community-maintained references such as [PCGamingWiki's Village in the Shade entry](https://www.pcgamingwiki.com/wiki/Village_in_the_Shade) sometimes list save paths and configuration details, though wiki coverage for smaller releases can be incomplete or temporarily unavailable. Player experience shared on forums and Steam discussions is often the fastest source when a page like that comes up short — just verify anything you read against your own file system before acting on it.
+
+## Frequently Asked Questions
+
+**Where is the Village in the Shade save location on a typical Windows PC?**
+It depends on the engine. Unity games usually store data in `AppData\LocalLow`, Unreal titles in `AppData\Local\<Game>\Saved\SaveGames`, and Godot games in `AppData\Roaming`. Searching your drive for recently modified `.sav` or `.dat` files immediately after saving will confirm the exact folder in under a minute.
+
+**Can I move my save to another computer?**
+Yes. Copy the entire save folder — not just the most recent file — to the same relative path on the new machine. Some games also store a separate settings or profile file alongside the save, and missing it can cause the game to treat your progress as invalid.
+
+**Why did my save disappear after an update?**
+Updates occasionally change the internal folder name or migrate data to a new format. Check whether a new folder appeared under AppData with a slightly different name, and look inside for files matching your old save's timestamp. Keeping dated backups makes this recoverable rather than fatal.
+
+**Does the Village in the Shade save location change with Steam Cloud enabled?**
+Cloud sync doesn't move the local files; it mirrors them to a remote copy under Steam's `userdata` directory. Knowing the local Village in the Shade save location still matters, because that's the copy you edit, back up, and restore when cloud and local versions disagree.
+
+## Final Checklist
+
+Before you close this tab, do three things: locate the folder using the engine table or a file search, copy it somewhere outside the game directory, and label the copy with today's date. That five-minute investment covers hardware failures, bad updates, and the inevitable moment you want to see what happens if you choose differently. Once you know the Village in the Shade save location, every future playthrough starts from a position of safety rather than hope.
