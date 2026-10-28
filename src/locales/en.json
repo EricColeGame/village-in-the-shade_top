@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Village in the Shade Wiki — Beginner Guide, Farming, Rules & Walkthrough",
+      "description": "Plan your farm, learn all eight village rules, meet Kagatsu's residents, and prepare for nighttime mysteries with Village in the Shade guides."
     },
     "hero": {
       "eyebrow": "Japanese Countryside Farming Horror",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Village in the Shade Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Build a reliable first week in Kagatsu: scout the village, clear your overgrown plot, plant seasonal crops, upgrade daily tools, and finish chores before the 11 PM curfew."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Farming Guide",
+          "description": "Plan fields, ridges, and rice paddies around the seasons, then improve crop quality with fertilizer, scarecrows, and steady tool upgrades."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Village Rules",
+          "description": "Track all eight rules, the 11 PM curfew, the Autumn story gates, and the Gold Axe needed to clear the Winter thicket route."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Yokai Survival",
+          "description": "Prepare for nighttime encounters with route planning, light, charms, offerings, and calm de-escalation instead of charging into the dark."
         }
       ]
     },
@@ -62,265 +62,348 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Farming Guide",
+        "Village Rules",
+        "Night Time",
+        "Villagers"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Start Here",
+          "title": "Village in the Shade Beginner Guide",
+          "description": "First-week priorities, early money, tool upgrades, cooking, and a safe daily loop around the 11 PM curfew.",
+          "href": "/guide/village-in-the-shade-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core Loop",
+          "title": "Farming Guide",
+          "description": "Fields, ridges, rice paddies, seasonal crop planning, fertilizer, scarecrows, and quality upgrades.",
+          "href": "/mechanics/village-in-the-shade-farming-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Rules",
+          "title": "All 8 Village Rules",
+          "description": "The full Kagatsu code, from the 11 PM curfew and Autumn story gates to the Winter Gold Axe route.",
+          "href": "/mechanics/village-in-the-shade-rules"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "After Dark",
+          "title": "Night Time Guide",
+          "description": "Curfew preparation, supernatural encounters, and the nighttime systems that drive the mystery story.",
+          "href": "/mechanics/village-in-the-shade-night-time"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Cast",
+          "title": "Villagers and Gifts",
+          "description": "Meet Rin, Komako, Sazanka, Rokkaku, Hasumi, and the rest of Kagatsu's 14 named residents.",
+          "href": "/characters/village-in-the-shade-villagers"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Combat",
+          "title": "Yokai Survival Guide",
+          "description": "Read the rules, prepare light and offerings, and de-escalate supernatural encounters on a known route.",
+          "href": "/combat/village-in-the-shade-yokai-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Modes",
+          "title": "Peaceful Life Mode",
+          "description": "How Village in the Sunshine blocks rule-breaking while keeping farming, fishing, hunting, and relationships.",
+          "href": "/mechanics/village-in-the-shade-sunshine-mode"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Platforms",
+          "title": "PC and Console Guide",
+          "description": "Compare the Steam, PlayStation 5, Nintendo Switch, and Nintendo Switch 2 versions.",
+          "href": "/platforms/village-in-the-shade-pc"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Completion",
+          "title": "Achievements and Trophies",
+          "description": "Plan the 52 Steam achievements and the console trophy list across farming, story, and exploration.",
+          "href": "/guide/village-in-the-shade-achievements"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Village in the Shade?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Village in the Shade is a hand-painted single-player farming and life simulation from Nippon Ichi Software, published in the West by NIS America. Set in Kagatsu, a secluded Japanese mountain village, it combines seasonal crops, livestock, fishing, hunting, cooking, crafting, festivals, and villager relationships with a code of eight unsettling rules.",
+        "By day you restore a neglected home and farm and build a routine around the people of Kagatsu. After 11 PM, the standard experience opens the mystery path through rule-breaking, night exploration, ghosts, Magatama, Lost Books, and other supernatural encounters. Peaceful Life Mode, also called Village in the Sunshine, keeps the farming loop while closing off rule-breaking and the darker story route."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Nippon Ichi Software"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "NIS America"
+        },
+        {
+          "label": "Platforms",
+          "value": "PC, PS5, Switch, Switch 2"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Farming & Folk Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Setting",
+          "value": "Kagatsu Village"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Named Characters",
+          "value": "14"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Western Release",
+          "value": "Oct 27, 2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Village in the Shade Wiki",
+      "description": "Plan your farm, learn the eight village rules, meet Kagatsu's residents, compare game modes, and prepare for the night with focused Village in the Shade guides.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Village in the Shade Beginner Guide",
+          "description": "Start with a practical first week: learn the map, clear the overgrown plot, establish reliable income, upgrade daily tools, and build a routine that ends before the 11 PM curfew.",
+          "href": "/guide/village-in-the-shade-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Scout Kagatsu in daylight and mark shops, fields, fishing spots, and village exits."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Clear and plant the starting plot, keeping about a third of your seeds in reserve."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Upgrade watering and tilling tools before buying decorations or expanding fields."
+            },
+            {
+              "label": "4",
+              "detail": "Cook surplus ingredients and sell prepared dishes for stronger early income."
+            },
+            {
+              "label": "5",
+              "detail": "Finish farm chores before evening and scout a safe route home before testing curfew."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Village in the Shade Farming Guide",
+          "description": "Manage fields, ridges, and rice paddies across the seasons, improve crop quality, and build a daily routine that supports cooking, crafting, livestock, and villager requests.",
+          "href": "/mechanics/village-in-the-shade-farming-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Fields",
+              "detail": "Open-ground plots are the cheapest first crop surface to clear, plant, and expand."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Ridges",
+              "detail": "Raised rows suit specific crops and become useful after the first harvest cycle."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Paddies",
+              "detail": "Dedicated rice cultivation needs water access and planning around the season."
+            },
+            {
+              "label": "Quality",
+              "detail": "Fertilizer, scarecrows, and tool upgrades raise produce value over repeated harvests."
+            },
+            {
+              "label": "Support",
+              "detail": "Cooking, crafting, livestock, fishing, and hunting smooth out income between crops."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Village in the Shade Village Rules and Nighttime Guide",
+          "description": "Learn the eight rules of Kagatsu, the 11 PM curfew, the Autumn story gates, and the Winter Gold Axe route, then prepare for the ghosts, Magatama, and Lost Books found after dark.",
+          "href": "/mechanics/village-in-the-shade-rules",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Curfew",
+              "detail": "The 11 PM rule sends you home unless a special night event opens access."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Autumn",
+              "detail": "Rules Five and Six mark the Autumn turning point and the mountain voice."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Gold Axe",
+              "detail": "Rule Seven's Winter route needs a Gold Axe to clear fallen thicket trees."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Night",
+              "detail": "Night events lead to ghosts, Magatama, Lost Books, and mystery progression."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Village in the Shade Characters and Gifts Guide",
+          "description": "Meet Kagatsu's 14 named residents, learn their roles and family ties, and plan birthday gifts and daily conversations around the village's shops, fields, and story routes.",
+          "href": "/characters/village-in-the-shade-villagers",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Rin",
+              "detail": "Village head; check with her when a request, unlock, or story step stalls."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Komako",
+              "detail": "First villager you meet; archery teacher linked to hunting and combat."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Sazanka",
+              "detail": "Runs the general store for seeds, supplies, and everyday essentials."
+            },
+            {
+              "label": "Hasumi",
+              "detail": "Village physician; the person to visit after a rough hunting trip."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Village in the Shade Money Making Guide",
+          "description": "Compare the village's main income routes, from seasonal crops and livestock to fishing, foraging, and licensed hunting, and learn where to reinvest early profits.",
+          "href": "/guide/village-in-the-shade-beginner-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Farming: seasonal crops, livestock products, and cooked dishes form the most reliable daily income loop."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Fishing: catches depend on season, time, and location and help cover slow weeks between harvests."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Foraging: free route materials support crafting, cooking, and tool upgrades without seed costs."
+            },
+            {
+              "label": "C",
+              "detail": "Hunting: a license opens afternoon trips for meat and animal materials with high-value sales."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Village in the Shade Fishing and Hunting Guide",
+          "description": "Learn how fishing and hunting fit into the daily economy, what gear and licenses they require, and how their ingredients support cooking, crafting, gifts, and villager requests.",
+          "href": "/guide/village-in-the-shade-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Fishing",
+              "detail": "Match season, time, and location; catches feed cooking, selling, and collection goals."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Hunting",
+              "detail": "Unlock a hunting license early for meat, animal materials, and high-value sales."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "License",
+              "detail": "The license also opens gathering routes and afternoon trips outside the farm."
+            },
+            {
+              "label": "Cooking",
+              "detail": "Turn fish and meat into dishes worth more than the raw ingredients."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Village in the Shade Game Modes Guide",
+          "description": "Choose between the full mystery experience and Village in the Sunshine, and understand how Peaceful Life Mode changes rule-breaking, nighttime access, and story progression.",
+          "href": "/mechanics/village-in-the-shade-sunshine-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Standard",
+              "detail": "Full story path with the eight rules, 11 PM curfew, night exploration, and horror."
+            },
+            {
+              "label": "Peaceful",
+              "detail": "Peaceful Life Mode blocks rule-breaking and keeps the cozy farming routine."
+            },
+            {
+              "label": "New Save",
+              "detail": "Pick the mode when starting a file; it is not a mid-game toggle."
+            },
+            {
+              "label": "Shared",
+              "detail": "Both modes keep farming, livestock, fishing, hunting, and villager relationships."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Village in the Shade Platforms and System Requirements",
+          "description": "Compare the Steam, PlayStation 5, Nintendo Switch, and Nintendo Switch 2 versions, along with release details, language support, and the setup that fits your play style.",
+          "href": "/platforms/village-in-the-shade-pc",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Steam release with keyboard, controller, and handheld PC options."
+            },
+            {
+              "label": "PS5",
+              "detail": "PlayStation 5 version for the living-room farming and mystery loop."
+            },
+            {
+              "label": "Switch",
+              "detail": "Nintendo Switch version built for portable daily routines."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2 version with the same farming and story content."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Village in the Shade FAQ",
+      "description": "Quick answers about Village in the Shade, its farming loop, village rules, game modes, platforms, and nighttime mystery.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Village in the Shade?",
+          "answer": "Village in the Shade is a single-player farming and life simulation from Nippon Ichi Software, published in the West by NIS America. It is set in Kagatsu, a Japanese mountain village where crops, livestock, fishing, hunting, cooking, crafting, festivals, and relationships share the same world as a supernatural village code."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Village in the Shade a farming game or a horror game?",
+          "answer": "It is both. The daytime loop is a full farming and life simulation, while the standard experience adds folk horror, psychological tension, rule-breaking, and nighttime encounters after the 11 PM curfew."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What happens after the 11 PM curfew in Village in the Shade?",
+          "answer": "In the standard experience, the 11 PM curfew sends you home during ordinary nights. Special night events let you explore after curfew, opening the path to ghosts, Magatama, Lost Books, and the mystery-driven main story."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can I play Village in the Shade without the horror?",
+          "answer": "Yes. Choose Peaceful Life Mode, often called Village in the Sunshine, when starting a new file. It blocks rule-breaking and closes the darker story route while keeping farming, livestock, fishing, hunting, and villager relationships."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which platforms is Village in the Shade available on?",
+          "answer": "Village in the Shade is available on PC through Steam, PlayStation 5, Nintendo Switch, and Nintendo Switch 2. The PC version adds Japanese, Traditional Chinese, and Korean text to the English, French, and Spanish console languages."
+        },
+        {
+          "question": "How many villagers are in Village in the Shade?",
+          "answer": "Kagatsu has 14 named residents plus a customizable player character. The cast includes Rin, Komako, Sazanka, Rokkaku, Hasumi, Chinana, Shiroji, Konno, Sumire, and Yoh."
         }
       ]
     },
