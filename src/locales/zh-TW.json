@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "Village in the Shade Wiki",
+    "shortName": "Village in the Shade",
+    "tagline": "Kagatsu的農耕、秘密與生存",
+    "description": "透過初學者指南、農耕技巧、角色資訊、秘密與攻略探索Village in the Shade。揭開Kagatsu的謎團，學習如何生存。",
+    "legalNotice": "非官方粉絲Wiki。由玩家打造，為玩家服務。"
+  },
+  "nav": {
+    "guide": "指南",
+    "mechanics": "機制",
+    "characters": "角色",
+    "combat": "戰鬥",
+    "platforms": "平台",
+    "language": "語言",
+    "reviews": "評測",
+    "toggleTheme": "切換主題",
+    "menu": "選單"
+  },
+  "home": {
+    "meta": {
+      "title": "Village in the Shade Wiki — 初學者指南、農耕、規則與攻略",
+      "description": "規劃農場、學會全部八條村規、認識Kagatsu的居民，並透過Village in the Shade指南為夜間謎團做好準備。"
+    },
+    "hero": {
+      "eyebrow": "日本鄉村農耕恐怖",
+      "title": "Village in the Shade Wiki",
+      "description": "探索手繪風格的日本山村Kagatsu，這裡的農耕、釣魚、祭典與友誼藏著令人不安的秘密。利用初學者指南、作物技巧、角色資訊、探索攻略與最新消息，揭開村莊神秘規則背後的真相。",
+      "stats": [
+        "2026年7月29日 PC版發售",
+        "52項Steam成就",
+        "Steam評論91%好評",
+        "單人遊戲"
+      ],
+      "primaryCta": "初學者指南",
+      "secondaryCta": "查看Steam",
+      "tertiaryCta": "PlayStation Store",
+      "videoLabel": "官方發布預告片"
+    },
+    "updates": {
+      "title": "最新更新",
+      "browse": "瀏覽所有指南",
+      "viewAll": "看全部"
+    },
+    "start": {
+      "eyebrow": "從這裡開始",
+      "title": "您的 Village in the Shade 旅程",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初學者指南",
+          "description": "在 Kagatsu 度過可靠的第一週：偵察村莊，清理雜草叢生的土地，種植季節性作物，升級日常工具，並在晚上 11 點宵禁之前完成家務。"
+        },
+        {
+          "number": "2",
+          "title": "農業指南",
+          "description": "根據季節規劃田地、田埂和稻田，然後透過肥料、稻草人和穩定的工具升級來提高作物品質。"
+        },
+        {
+          "number": "3",
+          "title": "村規民約",
+          "description": "掌握全部八條規則、晚上11點宵禁、秋季故事關卡，以及清除冬季密林路線所需的Gold Axe。"
+        },
+        {
+          "number": "4",
+          "title": "妖怪生存",
+          "description": "事先規劃路線，準備照明、護符與供品，冷靜應對夜間遭遇，而不是貿然衝進黑暗。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "熱門頁面",
+      "title": "熱門文章",
+      "quickLinks": [
+        "初學者指南",
+        "農業指南",
+        "村規民約",
+        "夜間時段",
+        "村民"
+      ],
+      "cards": [
+        {
+          "badge": "從這裡開始",
+          "title": "Village in the Shade 初學者指南",
+          "description": "第一週的優先事項、早期資金、工具升級、烹飪以及每天晚上 11 點宵禁期間的安全循環。",
+          "href": "/guide/village-in-the-shade-beginner-guide"
+        },
+        {
+          "badge": "核心循環",
+          "title": "農業指南",
+          "description": "田地、田埂、稻田、季節性作物規劃、肥料、稻草人和品質升級。",
+          "href": "/mechanics/village-in-the-shade-farming-guide"
+        },
+        {
+          "badge": "規則",
+          "title": "全部 8 條村規民約",
+          "description": "Kagatsu規則全貌，從晚上11點宵禁、秋季故事關卡到冬季Gold Axe路線。",
+          "href": "/mechanics/village-in-the-shade-rules"
+        },
+        {
+          "badge": "夜幕之後",
+          "title": "夜間指南",
+          "description": "宵禁準備、超自然遭遇以及驅動神秘故事的夜間系統。",
+          "href": "/mechanics/village-in-the-shade-night-time"
+        },
+        {
+          "badge": "角色",
+          "title": "村民和禮物",
+          "description": "認識Rin、Komako、Sazanka、Rokkaku、Hasumi，以及Kagatsu其餘具名居民，共14人。",
+          "href": "/characters/village-in-the-shade-villagers"
+        },
+        {
+          "badge": "戰鬥",
+          "title": "妖怪生存指南",
+          "description": "閱讀規則、準備照明與供品，並在熟悉路線上冷靜化解超自然遭遇。",
+          "href": "/combat/village-in-the-shade-yokai-guide"
+        },
+        {
+          "badge": "模式",
+          "title": "平靜生活模式",
+          "description": "Village in the Sunshine 如何阻止違規行為，同時維持農耕、捕魚、狩獵和人際關係。",
+          "href": "/mechanics/village-in-the-shade-sunshine-mode"
+        },
+        {
+          "badge": "平台",
+          "title": "PC與主機指南",
+          "description": "比較 Steam、PlayStation 5、Nintendo Switch 和 Nintendo Switch 2 版本。",
+          "href": "/platforms/village-in-the-shade-pc"
+        },
+        {
+          "badge": "完成",
+          "title": "成就和獎杯",
+          "description": "規劃涵蓋農耕、故事與探索的52項Steam成就與主機獎盃清單。",
+          "href": "/guide/village-in-the-shade-achievements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "什麼是 Village in the Shade？",
+      "paragraphs": [
+        "Village in the Shade是Nippon Ichi Software開發、NIS America在海外發行的手繪風格單人農耕與生活模擬遊戲。故事發生在日本僻靜的山村Kagatsu，結合季節作物、畜牧、釣魚、狩獵、烹飪、製作、祭典與居民關係，以及八條令人不安的規則。",
+        "白天，你修復荒廢的家園與農場，圍繞Kagatsu的人們建立日常。晚上11點後，標準模式會透過違規、夜間探索、鬼魂、Magatama、Lost Books等超自然遭遇開啟謎團之路。平靜生活模式又名Village in the Sunshine，保留農耕循環，同時封閉違規與較黑暗的故事路線。"
+      ],
+      "stats": [
+        {
+          "label": "開發商",
+          "value": "Nippon Ichi Software"
+        },
+        {
+          "label": "出版商",
+          "value": "NIS America"
+        },
+        {
+          "label": "平台",
+          "value": "PC、PS5、Switch、Switch 2"
+        },
+        {
+          "label": "類型",
+          "value": "農耕與民俗恐怖"
+        },
+        {
+          "label": "環境",
+          "value": "Kagatsu村"
+        },
+        {
+          "label": "具名角色",
+          "value": "14"
+        },
+        {
+          "label": "海外發售",
+          "value": "2026 年 10 月 27 日"
+        }
+      ],
+      "cta": "探索所有指南"
+    },
+    "explore": {
+      "title": "探索 Village in the Shade 維基",
+      "description": "規劃你的農場，學習八項村莊規則，會見 Kagatsu 的居民，比較遊戲模式，並在 Village in the Shade 導遊的帶領下為夜晚做好準備。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Village in the Shade 初學者指南",
+          "description": "從實際的第一週開始：學習地圖，清理雜草叢生的地塊，建立可靠的收入，升級日常工具，並建立一個在晚上 11 點宵禁之前結束的例行公事。",
+          "href": "/guide/village-in-the-shade-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "在白天偵察Kagatsu並標記商店、田野、釣魚點和村莊出口。"
+            },
+            {
+              "label": "2",
+              "detail": "清理並種植起始地塊，保留約三分之一的種子。"
+            },
+            {
+              "label": "3",
+              "detail": "在購買裝飾品或擴大土地之前升級澆水和耕作工具。"
+            },
+            {
+              "label": "4",
+              "detail": "烹飪多餘的食材並出售準備好的菜餚以獲得更多的早期收入。"
+            },
+            {
+              "label": "5",
+              "detail": "晚上前完成農活，並在測試宵禁前尋找安全回家的路線。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Village in the Shade 農業指南",
+          "description": "隨季節管理田地、田埂與稻田，提升作物品質，並建立能支援烹飪、製作、畜牧與村民委託的日常。",
+          "href": "/mechanics/village-in-the-shade-farming-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "領域",
+              "detail": "露天地塊是清理、種植和擴大作物的最便宜的第一批作物表面。"
+            },
+            {
+              "label": "山脊",
+              "detail": "升高的行適合特定的作物，並在第一個收穫週期後變得有用。"
+            },
+            {
+              "label": "稻田",
+              "detail": "專門的水稻種植需要供水並根據季節進行規劃。"
+            },
+            {
+              "label": "品質",
+              "detail": "肥料、稻草人和工具升級可以透過重複收穫來提高農產品價值。"
+            },
+            {
+              "label": "支援",
+              "detail": "烹飪、手工藝、畜牧、捕魚和狩獵使農作物之間的收入變得平滑。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Village in the Shade 村規和夜間指南",
+          "description": "了解Kagatsu的八條規則、晚上11點宵禁、秋季故事關卡與冬季Gold Axe路線，再為天黑後遇到的鬼魂、Magatama與Lost Books做好準備。",
+          "href": "/mechanics/village-in-the-shade-rules",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "宵禁",
+              "detail": "晚上11點規則會送你回家，除非特殊夜間事件開放通行。"
+            },
+            {
+              "label": "秋天",
+              "detail": "規則五和規則六標誌著秋天的轉折點和山聲。"
+            },
+            {
+              "label": "Gold Axe",
+              "detail": "規則七的冬季路線需要Gold Axe來清除倒下的林木。"
+            },
+            {
+              "label": "夜晚",
+              "detail": "夜間事件會引向鬼魂、Magatama、Lost Books與謎團進展。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Village in the Shade 人物和禮物指南",
+          "description": "認識Kagatsu的14位具名居民，了解他們的角色與家庭關係，並依村莊商店、田地與故事路線規劃生日禮物與日常對話。",
+          "href": "/characters/village-in-the-shade-villagers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rin",
+              "detail": "村長;當請求、解鎖或故事步驟停滯時與她聯繫。"
+            },
+            {
+              "label": "Komako",
+              "detail": "你遇到的第一位村民；弓箭教練，與狩獵和戰鬥有關。"
+            },
+            {
+              "label": "Sazanka",
+              "detail": "經營種子、用品和日常必需品的雜貨店。"
+            },
+            {
+              "label": "Hasumi",
+              "detail": "村醫；經歷艱難狩獵行程後可找他診療。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Village in the Shade 賺錢指南",
+          "description": "比較村莊主要收入來源，從季節作物與畜牧到釣魚、採集與持證狩獵，並了解該把早期利潤再投資到哪裡。",
+          "href": "/guide/village-in-the-shade-beginner-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "農業：時令農作物、畜產品、熟食形成了最可靠的日常收入循環。"
+            },
+            {
+              "label": "A",
+              "detail": "釣魚：漁獲量取決於季節、時間和地點，有助於彌補收穫之間緩慢的幾週。"
+            },
+            {
+              "label": "B",
+              "detail": "採集：沿途取得的免費素材可支援製作、烹飪與工具升級，不必花費種子成本。"
+            },
+            {
+              "label": "C",
+              "detail": "狩獵：取得許可後可在下午外出，獵得肉類與動物素材並高價出售。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Village in the Shade 釣魚和狩獵指南",
+          "description": "了解捕魚和狩獵如何融入日常經濟，它們需要什麼裝備和許可證，以及它們的原料如何滿足烹飪、手工藝、禮物和村民的要求。",
+          "href": "/guide/village-in-the-shade-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "釣魚",
+              "detail": "配合季節、時間與地點；漁獲可用於烹飪、販售與收集目標。"
+            },
+            {
+              "label": "狩獵",
+              "detail": "儘早解鎖狩獵許可，取得肉類、動物素材與高價銷售機會。"
+            },
+            {
+              "label": "許可證",
+              "detail": "許可證也會開放採集路線與農場外的下午行程。"
+            },
+            {
+              "label": "烹飪",
+              "detail": "將魚和肉變成比原料更有價值的菜餚。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Village in the Shade 遊戲模式指南",
+          "description": "在完整謎團體驗與Village in the Sunshine之間選擇，並了解平靜生活模式如何改變違規、夜間探索與故事推進。",
+          "href": "/mechanics/village-in-the-shade-sunshine-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "標準",
+              "detail": "完整的故事路徑包含八項規則、晚上 11 點宵禁、夜間探索和恐怖。"
+            },
+            {
+              "label": "和平",
+              "detail": "平靜生活模式可以阻止違規行為並保持舒適的農耕習慣。"
+            },
+            {
+              "label": "新存檔",
+              "detail": "建立新存檔時選擇模式；遊戲中途無法切換。"
+            },
+            {
+              "label": "共通",
+              "detail": "兩種模式都維持農、牧、漁、獵、村民關係。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Village in the Shade 平台和系統需求",
+          "description": "比較Steam、PlayStation 5、Nintendo Switch與Nintendo Switch 2版本，以及發售資訊、語言支援與適合你遊玩方式的設定。",
+          "href": "/platforms/village-in-the-shade-pc",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Steam版支援鍵盤、控制器與掌機PC。"
+            },
+            {
+              "label": "PS5",
+              "detail": "在客廳享受農耕生活與謎團循環的PlayStation 5版。"
+            },
+            {
+              "label": "Switch",
+              "detail": "為隨身日常遊玩打造的Nintendo Switch版。"
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2 版本具有相同的農業和故事內容。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Village in the Shade 常見問題解答",
+      "description": "關於Village in the Shade、農耕循環、村莊規則、遊戲模式、平台與夜間謎團的快速解答。",
+      "items": [
+        {
+          "question": "什麼是 Village in the Shade？",
+          "answer": "Village in the Shade是Nippon Ichi Software開發、NIS America在海外發行的單人農耕與生活模擬遊戲。故事發生在日本山村Kagatsu，作物、畜牧、釣魚、狩獵、烹飪、製作、祭典與人際關係，都與超自然的村莊規則共存於同一個世界。"
+        },
+        {
+          "question": "Village in the Shade 是農場遊戲還是恐怖遊戲？",
+          "answer": "兩者皆是。白天是完整的農耕與生活模擬，標準模式則加入民俗恐怖、心理緊張、違規行為與晚上11點宵禁後的夜間遭遇。"
+        },
+        {
+          "question": "Village in the Shade 晚上 11 點宵禁後會發生什麼事？",
+          "answer": "在標準模式中，平常夜晚的晚上11點宵禁會送你回家。特殊夜間事件可讓你在宵禁後探索，開啟通往鬼魂、Magatama、Lost Books與謎團主線的道路。"
+        },
+        {
+          "question": "我可以在沒有恐怖的情況下玩 Village in the Shade 嗎？",
+          "answer": "可以。建立新存檔時選擇平靜生活模式，也就是Village in the Sunshine。它會封閉違規與較黑暗的故事路線，同時保留農耕、畜牧、釣魚、狩獵與村民關係。"
+        },
+        {
+          "question": "Village in the Shade 可在哪些平台上使用？",
+          "answer": "Village in the Shade可在PC（Steam）、PlayStation 5、Nintendo Switch與Nintendo Switch 2遊玩。PC版在英語、法語與西班牙語主機語言之外，新增日語、繁體中文與韓語文字。"
+        },
+        {
+          "question": "Village in the Shade 有多少村民？",
+          "answer": "Kagatsu有14位具名居民，另有一位可自訂的玩家角色。角色陣容包括Rin、Komako、Sazanka、Rokkaku、Hasumi、Chinana、Shiroji、Konno、Sumire與Yoh。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "準備好揭開 Kagatsu 的秘密了嗎？",
+      "description": "從第一批作物與祭典，到村莊的隱藏規則與夜間謎團，我們的獨立Wiki都以免費且最新的指南為你提供支援。",
+      "primary": "閱讀初學者指南",
+      "secondary": "查看Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Village in the Shade指南",
+    "overviewDescription": "Village in the Shade每個階段的初學者指南、攻略、成就、結局和實用技巧。"
+  },
+  "mechanics": {
+    "overviewTitle": "Village in the Shade 機制",
+    "overviewDescription": "在 Village in the Shade 中學習農業、戰鬥、夜間規則、遊戲模式與存檔系統。"
+  },
+  "characters": {
+    "overviewTitle": "Village in the Shade 角色",
+    "overviewDescription": "透過詳細的Village in the Shade角色指南，認識Kagatsu的村民、戀愛選項、心動事件與狗。"
+  },
+  "combat": {
+    "overviewTitle": "Village in the Shade 戰鬥指南",
+    "overviewDescription": "了解 Village in the Shade 中的妖怪、鬼魂、怪物、跳躍驚嚇和戰鬥基礎知識。"
+  },
+  "platforms": {
+    "overviewTitle": "Village in the Shade 平台",
+    "overviewDescription": "比較 Village in the Shade 與 PC、PS5、Switch、Switch 2 和 Steam Deck，包括要求和性能說明。"
+  },
+  "language": {
+    "overviewTitle": "Village in the Shade 語言選項",
+    "overviewDescription": "尋找 Village in the Shade 英語支援、語言設定、補丁和發布詳細資訊。"
+  },
+  "reviews": {
+    "overviewTitle": "Village in the Shade 評論",
+    "overviewDescription": "閱讀 Village in the Shade 評論、遊戲印象、Reddit 討論和發布報導。"
+  },
+  "shared": {
+    "wikiNavigation": "維基導航",
+    "activeCodes": "活動代碼",
+    "updated": "已更新",
+    "viewAllCodes": "查看所有代碼",
+    "playOnRoblox": "在 Roblox 上玩",
+    "inThisSection": "在這個部分",
+    "tableOfContents": "目錄",
+    "nextSteps": "下一步",
+    "needHelp": "需要幫助嗎？",
+    "relatedReading": "延伸閱讀",
+    "relatedGuides": "相關指南",
+    "readMore": "閱讀更多",
+    "officialMedia": "官方媒體",
+    "home": "首頁",
+    "noGuidesAvailable": "尚無可用指南。請盡快回來查看！"
+  },
+  "footer": {
+    "aboutTitle": "Village in the Shade Wiki",
+    "about": "Village in the Shade Wiki是由粉絲打造的獨立指南中心，為新玩家與老玩家涵蓋農耕、釣魚、祭典、角色、村規，以及Kagatsu的隱藏謎團。",
+    "quickLinks": "快速連結",
+    "guides": "指南",
+    "legal": "法律",
+    "copyright": "2026 Village in the Shade Wiki。與Nippon Ichi Software或NIS America無隸屬關係。",
+    "description": "Nippon Ichi Software與NIS America推出的日本鄉村農耕與心理恐怖遊戲。",
+    "playGame": "查看Steam",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "Nintendo Switch 2",
+    "vvBuilder": "PlayStation Store",
+    "beginnerGuide": "初學者指南",
+    "raceGuides": "角色指南",
+    "bossGuides": "戰鬥指南",
+    "buildGuide": "機制指南",
+    "privacyPolicy": "隱私權政策",
+    "termsOfService": "服務條款"
+  }
+}

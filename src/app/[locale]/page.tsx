@@ -14,12 +14,13 @@ type Messages = typeof en;
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await getMessages({ locale })) as Messages;
-  const title = `${messages.site.name} - Guide, Secrets & Farming`;
+  const title = messages.home.meta.title;
+  const description = messages.home.meta.description;
   return {
     title,
-    description: messages.site.description,
+    description,
     alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
-    openGraph: { title, description: messages.site.description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
+    openGraph: { title, description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
   };
 }
 

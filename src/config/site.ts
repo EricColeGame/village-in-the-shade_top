@@ -38,6 +38,6 @@ export const siteConfig: SiteConfig = {
     nintendo: "https://www.nintendo.com/us/store/products/village-in-the-shade-switch-2/",
     playstation: "https://store.playstation.com/en-us/concept/10015979/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "zh-TW", "ko"],
   defaultLocale: "en",
 };

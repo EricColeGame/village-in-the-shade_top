@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "Village in the Shade Wiki",
+    "shortName": "Village in the Shade",
+    "tagline": "Kagatsu의 농사, 비밀 및 생존",
+    "description": "초보자 가이드, 농사 팁, 캐릭터 정보, 비밀, 공략을 통해 Village in the Shade를 탐험하세요. Kagatsu의 미스터리를 파헤치고 생존하는 방법을 배워 보세요.",
+    "legalNotice": "비공식 팬 Wiki. 플레이어가 플레이어를 위해 만들었습니다."
+  },
+  "nav": {
+    "guide": "가이드",
+    "mechanics": "메커니즘",
+    "characters": "캐릭터",
+    "combat": "전투",
+    "platforms": "플랫폼",
+    "language": "언어",
+    "reviews": "리뷰",
+    "toggleTheme": "테마 전환",
+    "menu": "메뉴"
+  },
+  "home": {
+    "meta": {
+      "title": "Village in the Shade Wiki — 초보자 가이드, 농사, 규칙 및 공략",
+      "description": "농장을 계획하고, 8가지 마을 규칙을 모두 배우고, Kagatsu의 주민을 만나며, Village in the Shade 가이드로 밤의 미스터리에 대비하세요."
+    },
+    "hero": {
+      "eyebrow": "일본의 시골 농사 공포",
+      "title": "Village in the Shade Wiki",
+      "description": "농사, 낚시, 축제, 우정 뒤에 불길한 비밀이 숨겨진 손으로 그린 일본 산간 마을 Kagatsu를 탐험하세요. 초보자 가이드, 작물 팁, 캐릭터 정보, 탐험 공략, 최신 업데이트를 통해 마을의 신비한 규칙 뒤에 숨은 진실을 밝혀 보세요.",
+      "stats": [
+        "2026년 7월 29일 PC 출시",
+        "Steam 업적 52개",
+        "Steam 리뷰 91% 긍정적",
+        "싱글 플레이어"
+      ],
+      "primaryCta": "초보자 가이드",
+      "secondaryCta": "Steam에서 보기",
+      "tertiaryCta": "PlayStation Store",
+      "videoLabel": "공식 출시 예고편"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 찾아보기",
+      "viewAll": "모두 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "당신의 Village in the Shade 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "Kagatsu에서 안정적인 첫 주를 보내세요. 마을을 정찰하고, 무성한 농장을 정리하고, 제철 작물을 심고, 일일 도구를 업그레이드하고, 통행금지 시간인 오후 11시 이전에 집안일을 완료하세요."
+        },
+        {
+          "number": "2",
+          "title": "농사 가이드",
+          "description": "계절에 맞춰 밭, 두둑, 논을 계획하고 비료, 허수아비, 꾸준한 도구 업그레이드로 작물 품질을 높이세요."
+        },
+        {
+          "number": "3",
+          "title": "마을 규칙",
+          "description": "8가지 규칙, 오후 11시 통금, 가을 스토리 진행, 겨울 덤불 길을 지나기 위해 필요한 Gold Axe까지 모두 확인하세요."
+        },
+        {
+          "number": "4",
+          "title": "요괴 서바이벌",
+          "description": "어둠 속으로 돌진하지 말고 경로를 계획하고 조명, 부적, 제물을 준비해 야간 조우에 차분히 대비하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기 있는 글",
+      "quickLinks": [
+        "초보자 가이드",
+        "농사 가이드",
+        "마을 규칙",
+        "야간 시간",
+        "마을 사람들"
+      ],
+      "cards": [
+        {
+          "badge": "여기서 시작하세요",
+          "title": "Village in the Shade 초보자 가이드",
+          "description": "첫 주 우선순위, 조기 자금, 도구 업그레이드, 요리, 오후 11시 통금 시간 전후의 안전한 일일 순환.",
+          "href": "/guide/village-in-the-shade-beginner-guide"
+        },
+        {
+          "badge": "코어 루프",
+          "title": "농사 가이드",
+          "description": "밭, 두둑, 논, 계절 작물 계획, 비료, 허수아비 및 품질 업그레이드.",
+          "href": "/mechanics/village-in-the-shade-farming-guide"
+        },
+        {
+          "badge": "규칙",
+          "title": "8가지 마을 규칙 모두",
+          "description": "오후 11시 통금과 가을 스토리 게이트부터 겨울 Gold Axe 경로까지, Kagatsu 규칙의 전모.",
+          "href": "/mechanics/village-in-the-shade-rules"
+        },
+        {
+          "badge": "해가 진 뒤",
+          "title": "야간 가이드",
+          "description": "통금 시간 준비, 초자연적인 만남, 미스터리 스토리를 이끄는 야간 시스템.",
+          "href": "/mechanics/village-in-the-shade-night-time"
+        },
+        {
+          "badge": "등장인물",
+          "title": "마을 주민과 선물",
+          "description": "Rin, Komako, Sazanka, Rokkaku, Hasumi를 비롯해 Kagatsu의 이름 있는 주민 14명을 만나 보세요.",
+          "href": "/characters/village-in-the-shade-villagers"
+        },
+        {
+          "badge": "전투",
+          "title": "요괴 서바이벌 가이드",
+          "description": "규칙을 읽고 조명과 제물을 준비하며, 익숙한 경로에서 초자연적 조우에 차분히 대처하세요.",
+          "href": "/combat/village-in-the-shade-yokai-guide"
+        },
+        {
+          "badge": "모드",
+          "title": "평화로운 생활 모드",
+          "description": "Village in the Sunshine이 농사, 낚시, 사냥, 관계를 유지하면서 규칙 위반을 차단하는 방법.",
+          "href": "/mechanics/village-in-the-shade-sunshine-mode"
+        },
+        {
+          "badge": "플랫폼",
+          "title": "PC 및 콘솔 가이드",
+          "description": "Steam, PlayStation 5, Nintendo Switch 및 Nintendo Switch 2 버전을 비교합니다.",
+          "href": "/platforms/village-in-the-shade-pc"
+        },
+        {
+          "badge": "완성",
+          "title": "업적과 트로피",
+          "description": "농사, 스토리, 탐험 전반에 걸쳐 Steam 업적 52개와 콘솔 트로피 목록을 계획하세요.",
+          "href": "/guide/village-in-the-shade-achievements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Village in the Shade란 무엇인가요?",
+      "paragraphs": [
+        "Village in the Shade는 Nippon Ichi Software가 개발하고 NIS America가 해외에서 배급한 손으로 그린 싱글 플레이어 농사·생활 시뮬레이션입니다. 일본의 한적한 산간 마을 Kagatsu를 배경으로 계절 작물, 가축, 낚시, 사냥, 요리, 제작, 축제, 주민 관계를 8가지 불길한 규칙과 결합합니다.",
+        "낮에는 방치된 집과 농장을 복원하고 Kagatsu 주민들을 중심으로 일상을 만들어 갑니다. 오후 11시 이후 표준 모드에서는 규칙 위반, 야간 탐험, 유령, Magatama, Lost Books 및 기타 초자연적 조우를 통해 미스터리 경로가 열립니다. Village in the Sunshine이라고도 불리는 평화로운 생활 모드는 농사 루틴을 유지하면서 규칙 위반과 어두운 스토리 경로를 차단합니다."
+      ],
+      "stats": [
+        {
+          "label": "개발자",
+          "value": "Nippon Ichi Software"
+        },
+        {
+          "label": "발행자",
+          "value": "NIS America"
+        },
+        {
+          "label": "플랫폼",
+          "value": "PC, PS5, Switch, Switch 2"
+        },
+        {
+          "label": "장르",
+          "value": "농사 및 민속 공포"
+        },
+        {
+          "label": "환경",
+          "value": "Kagatsu 마을"
+        },
+        {
+          "label": "이름 있는 캐릭터",
+          "value": "14"
+        },
+        {
+          "label": "해외 출시",
+          "value": "2026년 10월 27일"
+        }
+      ],
+      "cta": "모든 가이드 살펴보기"
+    },
+    "explore": {
+      "title": "Village in the Shade Wiki 탐색",
+      "description": "농장을 계획하고, 8가지 마을 규칙을 배우고, Kagatsu의 주민들을 만나고, 게임 모드를 비교하고, 집중적인 Village in the Shade 가이드와 함께 밤을 준비하세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Village in the Shade 초보자 가이드",
+          "description": "실용적인 첫 주부터 시작하세요. 지도를 배우고, 무성한 부지를 정리하고, 안정적인 수입을 얻고, 일일 도구를 업그레이드하고, 통금 시간인 오후 11시 이전에 끝나는 루틴을 구축하세요.",
+          "href": "/guide/village-in-the-shade-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "낮에 Kagatsu를 정찰하고 상점, 들판, 낚시터 및 마을 출구를 표시합니다."
+            },
+            {
+              "label": "2",
+              "detail": "시작 플롯을 정리하고 심고 씨앗의 약 1/3을 남겨 두십시오."
+            },
+            {
+              "label": "3",
+              "detail": "장식물을 구입하거나 밭을 확장하기 전에 물주기 및 경작 도구를 업그레이드하세요."
+            },
+            {
+              "label": "4",
+              "detail": "잉여 재료를 요리하고 준비된 요리를 판매하여 더 큰 초기 수입을 얻으세요."
+            },
+            {
+              "label": "5",
+              "detail": "저녁이 되기 전에 농장 일을 끝내고 통행금지 시간을 시험하기 전에 안전한 귀가 경로를 찾아보세요."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Village in the Shade 농사 가이드",
+          "description": "계절에 따라 밭, 두둑, 논을 관리하고 작물 품질을 높이며, 요리, 제작, 가축, 주민 요청을 지원하는 일상을 만드세요.",
+          "href": "/mechanics/village-in-the-shade-farming-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "밭",
+              "detail": "노지 토지는 개간, 심기 및 확장을 위한 가장 저렴한 첫 번째 작물 표면입니다."
+            },
+            {
+              "label": "두둑",
+              "detail": "돌출된 줄은 특정 작물에 적합하며 첫 번째 수확 주기 이후에 유용해집니다."
+            },
+            {
+              "label": "논",
+              "detail": "전용 벼 재배에는 물 접근권과 계절에 따른 계획이 필요합니다."
+            },
+            {
+              "label": "품질",
+              "detail": "비료, 허수아비, 도구 업그레이드는 반복적인 수확에 비해 농산물 가치를 높입니다."
+            },
+            {
+              "label": "지원하다",
+              "detail": "요리, 공예, 가축, 낚시, 사냥을 통해 농작물 간 수입이 원활해집니다."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Village in the Shade 마을 규칙 및 야간 안내",
+          "description": "Kagatsu의 8가지 규칙, 오후 11시 통금, 가을 스토리 게이트, 겨울 Gold Axe 경로를 익힌 뒤 어두워진 후 마주치는 유령, Magatama, Lost Books에 대비하세요.",
+          "href": "/mechanics/village-in-the-shade-rules",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "통금",
+              "detail": "밤 11시 규칙은 특별한 밤 행사로 인해 접근이 허용되지 않는 한 집으로 돌아갑니다."
+            },
+            {
+              "label": "가을",
+              "detail": "규칙 5번과 6번은 가을의 전환점과 산의 목소리를 나타냅니다."
+            },
+            {
+              "label": "Gold Axe",
+              "detail": "규칙 7의 겨울 경로에서는 쓰러진 나무를 치우려면 Gold Axe가 필요합니다."
+            },
+            {
+              "label": "밤",
+              "detail": "야간 이벤트는 유령, Magatama, Lost Books 및 미스터리 진행으로 이어집니다."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Village in the Shade 캐릭터 및 선물 안내",
+          "description": "Kagatsu의 이름 있는 주민 14명을 만나 역할과 가족 관계를 배우고, 마을 상점, 밭, 스토리 경로에 맞춰 생일 선물과 일상 대화를 계획하세요.",
+          "href": "/characters/village-in-the-shade-villagers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rin",
+              "detail": "마을 이장; 요청, 잠금 해제 또는 스토리 단계가 중단되면 그녀에게 확인하세요."
+            },
+            {
+              "label": "Komako",
+              "detail": "처음 만나는 주민; 사냥과 전투에 관련된 양궁 선생님."
+            },
+            {
+              "label": "Sazanka",
+              "detail": "종자, 소모품, 생활 필수품을 판매하는 잡화점을 운영합니다."
+            },
+            {
+              "label": "Hasumi",
+              "detail": "마을 의사; 힘든 사냥여행을 마치고 찾아갈 사람."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Village in the Shade 수익 창출 가이드",
+          "description": "계절 작물과 가축부터 낚시, 채집, 허가제 사냥까지 마을의 주요 수입 경로를 비교하고 초기 수익을 어디에 재투자할지 알아보세요.",
+          "href": "/guide/village-in-the-shade-beginner-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "농사: 계절 작물, 축산물, 요리된 음식이 가장 안정적인 일일 수입 루틴을 만듭니다."
+            },
+            {
+              "label": "A",
+              "detail": "낚시: 어획량은 계절, 시간, 위치에 따라 다르며 수확 사이의 느린 주를 커버하는 데 도움이 됩니다."
+            },
+            {
+              "label": "B",
+              "detail": "채집: 무료로 얻는 경로 재료는 씨앗 비용 없이 제작, 요리, 도구 업그레이드를 지원합니다."
+            },
+            {
+              "label": "C",
+              "detail": "사냥: 면허는 고부가가치 판매가 가능한 육류 및 동물 재료에 대한 오후 여행을 엽니다."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Village in the Shade 낚시 및 사냥 가이드",
+          "description": "낚시와 사냥이 일상 경제에 어떻게 적합한지, 필요한 장비와 라이센스가 무엇인지, 재료가 요리, 공예, 선물 및 주민 요청에 어떻게 도움이 되는지 알아보세요.",
+          "href": "/guide/village-in-the-shade-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "낚시",
+              "detail": "계절, 시간, 장소를 맞추세요. 잡은 물고기는 요리, 판매, 수집 목표에 활용됩니다."
+            },
+            {
+              "label": "사냥",
+              "detail": "고기, 동물 재료 및 고가 판매에 대한 사냥 라이센스를 조기에 잠금 해제하세요."
+            },
+            {
+              "label": "면허",
+              "detail": "면허가 있으면 채집 경로와 농장 밖 오후 일정도 열립니다."
+            },
+            {
+              "label": "요리",
+              "detail": "생선과 고기를 원재료보다 더 가치 있는 요리로 바꿔보세요."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Village in the Shade 게임 모드 가이드",
+          "description": "완전한 미스터리 체험과 Village in the Sunshine 중에서 선택하고, 평화로운 생활 모드가 규칙 위반, 야간 탐험, 스토리 진행을 어떻게 바꾸는지 알아보세요.",
+          "href": "/mechanics/village-in-the-shade-sunshine-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "기준",
+              "detail": "8가지 규칙, 오후 11시 통행금지, 야간 탐험, 공포가 포함된 전체 스토리 경로입니다."
+            },
+            {
+              "label": "평화로운",
+              "detail": "평화로운 생활 모드는 규칙 위반을 차단하고 아늑한 농사 루틴을 유지합니다."
+            },
+            {
+              "label": "새 게임",
+              "detail": "새 게임을 시작할 때 모드를 선택하세요. 게임 도중에는 전환할 수 없습니다."
+            },
+            {
+              "label": "공통",
+              "detail": "두 모드 모두 농사, 가축, 낚시, 사냥, 마을 주민 관계를 유지합니다."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Village in the Shade 플랫폼 및 시스템 요구 사항",
+          "description": "Steam, PlayStation 5, Nintendo Switch 및 Nintendo Switch 2 버전을 릴리스 세부 정보, 언어 지원 및 플레이 스타일에 맞는 설정과 함께 비교해 보세요.",
+          "href": "/platforms/village-in-the-shade-pc",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Steam 릴리스에는 키보드, 컨트롤러 및 휴대용 PC 옵션이 포함됩니다."
+            },
+            {
+              "label": "PS5",
+              "detail": "거실에서 농사 생활과 미스터리 루프를 즐기는 PlayStation 5 버전."
+            },
+            {
+              "label": "Switch",
+              "detail": "휴대하며 일상 플레이를 즐기도록 만든 Nintendo Switch 버전."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "동일한 농사와 스토리 콘텐츠를 담은 Nintendo Switch 2 버전."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Village in the Shade 자주 묻는 질문",
+      "description": "Village in the Shade, 농사 루프, 마을 규칙, 게임 모드, 플랫폼 및 야간 미스터리에 대한 빠른 답변입니다.",
+      "items": [
+        {
+          "question": "Village in the Shade는 무엇인가요?",
+          "answer": "Village in the Shade는 Nippon Ichi Software가 개발하고 NIS America가 해외에서 배급한 싱글 플레이어 농사·생활 시뮬레이션입니다. 일본 산간 마을 Kagatsu를 배경으로 작물, 가축, 낚시, 사냥, 요리, 제작, 축제, 인간관계가 초자연적인 마을 규칙과 같은 세계에 공존합니다."
+        },
+        {
+          "question": "Village in the Shade는 농사 게임인가요, 아니면 공포 게임인가요?",
+          "answer": "둘 다입니다. 낮에는 본격적인 농사·생활 시뮬레이션이고, 표준 모드에는 민속 공포, 심리적 긴장, 규칙 위반, 오후 11시 통금 이후의 야간 조우가 더해집니다."
+        },
+        {
+          "question": "Village in the Shade의 통금 시간이 오후 11시 이후에는 어떻게 되나요?",
+          "answer": "표준 모드에서는 평범한 밤에 오후 11시 통금이 적용되어 집으로 돌아갑니다. 특별 야간 이벤트에서는 통금 이후 탐험할 수 있으며, 유령, Magatama, Lost Books, 미스터리 중심의 메인 스토리로 가는 길이 열립니다."
+        },
+        {
+          "question": "공포 없이 Village in the Shade를 플레이할 수 있나요?",
+          "answer": "가능합니다. 새 게임을 시작할 때 Village in the Sunshine이라고도 불리는 평화로운 생활 모드를 선택하세요. 농사, 가축, 낚시, 사냥, 주민 관계를 유지하면서 규칙 위반과 어두운 스토리 경로를 차단합니다."
+        },
+        {
+          "question": "Village in the Shade는 어떤 플랫폼에서 사용할 수 있나요?",
+          "answer": "Village in the Shade는 PC(Steam), PlayStation 5, Nintendo Switch, Nintendo Switch 2에서 플레이할 수 있습니다. PC 버전은 영어, 프랑스어, 스페인어 콘솔 언어에 일본어, 중국어 번체, 한국어 텍스트를 더합니다."
+        },
+        {
+          "question": "Village in the Shade에는 몇 명의 마을 사람들이 있나요?",
+          "answer": "Kagatsu에는 이름 있는 주민 14명과 커스터마이즈 가능한 플레이어 캐릭터가 있습니다. 등장인물로는 Rin, Komako, Sazanka, Rokkaku, Hasumi, Chinana, Shiroji, Konno, Sumire, Yoh가 있습니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Kagatsu의 비밀을 밝힐 준비가 되셨나요?",
+      "description": "첫 농작물과 축제부터 마을의 숨겨진 규칙과 밤의 미스터리까지, 저희 독립 Wiki가 무료 최신 가이드로 도와드립니다.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Steam에서 보기"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Village in the Shade 가이드",
+    "overviewDescription": "Village in the Shade의 모든 단계에 대한 초보자 가이드, 연습, 업적, 엔딩 및 실용적인 팁입니다."
+  },
+  "mechanics": {
+    "overviewTitle": "Village in the Shade 메커니즘",
+    "overviewDescription": "Village in the Shade에서 농사, 전투, 야간 규칙, 게임 모드 및 저장 시스템을 알아보세요."
+  },
+  "characters": {
+    "overviewTitle": "Village in the Shade 캐릭터",
+    "overviewDescription": "자세한 Village in the Shade 캐릭터 가이드를 통해 Kagatsu의 마을 사람들, 로맨스 옵션, 하트 이벤트, 강아지를 만나보세요."
+  },
+  "combat": {
+    "overviewTitle": "Village in the Shade 전투 가이드",
+    "overviewDescription": "Village in the Shade에서 요괴, 유령, 괴물, 점프스케어 및 전투 기본 사항을 이해하세요."
+  },
+  "platforms": {
+    "overviewTitle": "Village in the Shade 플랫폼",
+    "overviewDescription": "요구 사항 및 성능 참고 사항을 포함하여 PC, PS5, Switch, Switch 2 및 Steam Deck의 Village in the Shade를 비교하세요."
+  },
+  "language": {
+    "overviewTitle": "Village in the Shade 언어 옵션",
+    "overviewDescription": "Village in the Shade 영어 지원, 언어 설정, 패치 및 릴리스 세부 정보를 찾아보세요."
+  },
+  "reviews": {
+    "overviewTitle": "Village in the Shade 리뷰",
+    "overviewDescription": "Village in the Shade 리뷰, 게임 플레이 감상, Reddit 토론 및 출시 보도를 읽어보세요."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki 탐색",
+    "activeCodes": "활성 코드",
+    "updated": "업데이트됨",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 문서에서",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 글",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 읽어보세요",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 보세요."
+  },
+  "footer": {
+    "aboutTitle": "Village in the Shade Wiki",
+    "about": "Village in the Shade Wiki는 농사, 낚시, 축제, 캐릭터, 마을 규칙, Kagatsu의 숨은 미스터리를 신규 플레이어와 숙련 플레이어 모두에게 안내하는 팬 제작 독립 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 Village in the Shade Wiki. Nippon Ichi Software 또는 NIS America와 제휴 관계가 없습니다.",
+    "description": "Nippon Ichi Software와 NIS America가 선보이는 일본 시골 배경 농사·심리 공포 게임입니다.",
+    "playGame": "Steam에서 보기",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "Nintendo Switch 2",
+    "vvBuilder": "PlayStation Store",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "캐릭터 가이드",
+    "bossGuides": "전투 가이드",
+    "buildGuide": "메커니즘 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "서비스 약관"
+  }
+}

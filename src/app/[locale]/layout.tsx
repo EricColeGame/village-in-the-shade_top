@@ -13,21 +13,21 @@ import { routing } from "@/i18n/routing";
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://village-in-the-shade.top";
-const defaultTitle = "Village in the Shade Wiki";
-
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const messages = await getMessages({ locale });
+  const defaultTitle = messages.site.name;
   const image = `${siteUrl}/images/hero.webp`;
   const imageAlt = `${siteConfig.shortName} key art`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
     title: { default: defaultTitle, template: "%s" },
-    description: siteConfig.description,
+    description: messages.site.description,
     manifest: "/manifest.json",
     icons: {
       icon: [
