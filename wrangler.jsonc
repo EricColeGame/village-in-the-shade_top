@@ -1,0 +1,14 @@
+{
+  "name": "village-in-the-shade-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "village-in-the-shade.top",
+      "custom_domain": true
+    }
+  ]
+}
